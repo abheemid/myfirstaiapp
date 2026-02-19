@@ -3,7 +3,7 @@ langchain
 # LangChain OpenAI integration - provides OpenAI model wrappers for LangChain
 langchain-openai
 # LangChain Google GenAI integration - provides Google Gemini model wrappers for LangChain
-langchain-google-genai
+langchain-classic
 # Streamlit - web application framework for building interactive data/AI apps
 streamlit
-
+streamlit-chat
